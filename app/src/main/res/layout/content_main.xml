@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!"
-        android:textColor="#E43527"
+        android:textColor="#673AB7"
         android:textSize="18sp"
         app:fontFamily="casual"
         app:layout_constraintBottom_toBottomOf="parent"
